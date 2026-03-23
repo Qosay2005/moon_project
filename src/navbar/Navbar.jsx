@@ -1,10 +1,7 @@
 import React from 'react'
 import  Icon from './../assets/Icon.svg'
 import Moon from './../assets/Moon.svg'
-import Search from './../assets/Search.svg'
-import Shopping from './../assets/Shopping cart.svg'
-import Heart from './../assets/Heart.svg'
-import Avatar from './../assets/Avatar.svg'
+
 export default function Navbar() {
  return <div className="navbar bg-base-100 shadow-sm fixed top-0 z-10">
   <div className="navbar-start">
